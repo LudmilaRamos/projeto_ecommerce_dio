@@ -37,9 +37,7 @@ A seguir, as relações entre as entidades:
 
 O modelo de dados foi representado visualmente no diagrama a seguir:
 
-![Diagrama ER] (ecommerce.png) 
-
-
+![Diagrama ER]https://github.com/LudmilaRamos/projeto_ecommerce_dio/blob/main/ecommerce.png
 
 
 
